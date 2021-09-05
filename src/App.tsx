@@ -9,6 +9,7 @@ const App = () => {
     <Provider store={store}>
         <div>
             <h1>App</h1>
+            <h2>App Name</h2>
             <i className="bi bi-bag-plus"></i>
         </div>
     </Provider>
